@@ -5,4 +5,4 @@ Leetcode-Self-Practice
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Java](./Algorithms_by_Using_Java/#001 TwoSum.java)|Medium|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Java](./Algorithms by Using Java/#001 Two Sum.java)|Medium|
